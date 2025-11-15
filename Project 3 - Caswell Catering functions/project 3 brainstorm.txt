@@ -1,0 +1,13 @@
+Project: Catering and Convention Services Bill Generator
+
+Steps
+1. Ask for customer's name ***DONE***
+2. Ask for number of adults being served ***DONE***
+3. Ask for number of children being served ***DONE***
+4. Ask for the numbers of pieces of dessert ***DONE***
+5. Ask for the cost per meal ***DONE***
+6. Ask for room fee(0.0 means it's catered) ***DONE***
+7. Ask for amount of deposit paid when reservation is made ***DONE***
+8. Display bill into a file(ofstream output)
+
+

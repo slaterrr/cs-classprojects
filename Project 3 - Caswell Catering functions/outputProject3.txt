@@ -1,0 +1,23 @@
+	Passaic County Catering & Convention Services	Final Bill
+
+Customer name: 		Mike Mahon
+Number of adults: 	71
+Number of children: 	13
+
+Cost of Meal Per Adult: 	$13.25
+Cost of Meal Per Child: 	$7.29
+Cost Per Dessert: 		$6.50
+Total Cost for Adult Meals: 	$940.75
+Total Cost for Child Meals: 	$94.74
+Total Cost for Dessert: 	$325.00
+
+Plus 7.50% Tax: 		$102.04
+Plus 18.0% Tips: 		$244.89
+Plus Room Fee: 			$0.00
+
+Total Bill: 			$1707.41
+Less Deposit: 			$0.00
+
+Balance Due: 			$1707.41
+
+	Thank You for Using Passaic County Catering Services.
