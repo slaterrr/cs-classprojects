@@ -40,5 +40,16 @@
 # debug information files
 *.dwo
 
-#Ignore Temp folder
-"C:\Users\slate\cs-classprojects\Construction Job Quote Generator"
+#Ignore entire project folders
+Construction Job Quote Generator/
+DataTypes/
+findSum/
+Function demonstration/
+Loops/
+Messing around/
+py_projects/
+scores1/
+Simple Calculator/
+Student Grade Saver/
+Template/
+Using.ofstream/
