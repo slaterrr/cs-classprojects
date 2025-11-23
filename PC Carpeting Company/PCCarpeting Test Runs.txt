@@ -1,0 +1,132 @@
+Please enter the customer's name: David Lee
+
+Enter the room length in feet: 30.5
+
+Enter the room width in feet: 18.25
+
+Enter the price per square foot: 18.25
+
+Enter the discount rate as a decimal: .09 
+
+Welcome to Passaic County Carpeting Company!
+
+Customer Information:
+        Customer name: David Lee
+        Carpet Size: 557 Square Feet
+
+Charges:
+        Carpet Cost: @ $18.25 Sq Ft         $10165.25
+        Labor Cost:  @ $15.95 Sq Ft         $8884.15
+
+        Installed Price:                    $19049.40
+        Discount:       9%                  $1714.45
+
+                                            _________
+        SubTotal:                           $17334.95
+
+        Taxes:                              $1300.12
+
+        Total Cost:                         $18635.07
+
+David Lee, Thank you for using PCC Carpeting.
+
+
+
+Please enter the customer's name: Lisa Warm
+
+Enter the room length in feet: 23.2
+
+Enter the room width in feet: 13
+
+Enter the price per square foot: 17.35
+
+Enter the discount rate as a decimal: .03
+
+Welcome to Passaic County Carpeting Company!
+
+Customer Information:
+        Customer name: Lisa Warm
+        Carpet Size: 302 Square Feet
+
+Charges:
+        Carpet Cost: @ $17.35 Sq Ft         $5239.70
+        Labor Cost:  @ $15.95 Sq Ft         $4816.90
+
+        Installed Price:                    $10056.60
+        Discount:       3%                  $301.70
+
+                                            _________
+        SubTotal:                           $9754.90
+
+        Taxes:                              $731.62
+
+        Total Cost:                         $10486.52
+
+Lisa Warm, Thank you for using PCC Carpeting.
+
+
+
+Please enter the customer's name: Joe Torres
+
+Enter the room length in feet: 35
+
+Enter the room width in feet: 28.7
+
+Enter the price per square foot: 33.50
+
+Enter the discount rate as a decimal: .12
+
+Welcome to Passaic County Carpeting Company!
+
+Customer Information:
+        Customer name: Joe Torres
+        Carpet Size: 1005 Square Feet
+
+Charges:
+        Carpet Cost: @ $33.50 Sq Ft         $33667.50
+        Labor Cost:  @ $15.95 Sq Ft         $16029.75
+
+        Installed Price:                    $49697.25
+        Discount:       12%                  $5963.67
+
+                                            _________
+        SubTotal:                           $43733.58
+
+        Taxes:                              $3280.02
+
+        Total Cost:                         $47013.60
+
+Joe Torres, Thank you for using PCC Carpeting.
+
+
+Please enter the customer's name: Linda Sweet
+
+Enter the room length in feet: 75.75
+
+Enter the room width in feet: 55.85
+
+Enter the price per square foot: 16.75
+
+Enter the discount rate as a decimal: .02
+
+Welcome to Passaic County Carpeting Company!
+
+Customer Information:
+        Customer name: Linda Sweet
+        Carpet Size: 4231 Square Feet
+
+Charges:
+        Carpet Cost: @ $16.75 Sq Ft         $70869.25
+        Labor Cost:  @ $15.95 Sq Ft         $67484.45
+
+        Installed Price:                    $138353.69
+        Discount:       2%                  $2767.07
+
+                                            _________
+        SubTotal:                           $135586.61
+
+        Taxes:                              $10169.00
+
+        Total Cost:                         $145755.61
+
+Linda Sweet, Thank you for using PCC Carpeting.
