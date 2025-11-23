@@ -39,3 +39,6 @@
 
 # debug information files
 *.dwo
+
+#Ignore Temp folder
+"C:\Users\slate\cs-classprojects\Construction Job Quote Generator"
